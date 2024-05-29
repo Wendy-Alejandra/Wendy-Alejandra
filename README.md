@@ -11,9 +11,6 @@ Hi there 👋I am Wendy and I am a web developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wendy-Alejandra&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy-Alejandra&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Wendy-Alejandra&icon=0&color=0)](https://visitcount.itsvg.in)
 
